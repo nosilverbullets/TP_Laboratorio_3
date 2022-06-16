@@ -1,0 +1,77 @@
+[
+  {
+    "contadorid": 5,
+    "id": 0,
+    "especialidadID": 0,
+    "registroTratamiento": [],
+    "activo": true,
+    "ordenAsignada": {
+      "idProfesional": 0
+    },
+    "nombre": "Paciente Silvia",
+    "tipoUsuario": "paciente",
+    "email": "paciente",
+    "clave": "123456",
+    "dni": "26456789"
+  },
+  {
+    "contadorid": 5,
+    "id": 1,
+    "especialidadID": 1,
+    "registroTratamiento": [],
+    "activo": true,
+    "ordenAsignada": {
+      "idProfesional": 0
+    },
+    "nombre": "Paciente Carlos",
+    "tipoUsuario": "paciente",
+    "email": "paciente2@gmail.com",
+    "clave": "123456",
+    "dni": "45612385"
+  },
+  {
+    "contadorid": 5,
+    "id": 2,
+    "especialidadID": 2,
+    "registroTratamiento": [],
+    "activo": true,
+    "ordenAsignada": {
+      "idProfesional": 0
+    },
+    "nombre": "Paciente Romina",
+    "tipoUsuario": "paciente",
+    "email": "paciente3@gmail.com",
+    "clave": "123456",
+    "dni": "96325874"
+  },
+  {
+    "contadorid": 5,
+    "id": 3,
+    "especialidadID": 3,
+    "registroTratamiento": [],
+    "activo": true,
+    "ordenAsignada": {
+      "idProfesional": 0
+    },
+    "nombre": "Paciente Juan",
+    "tipoUsuario": "paciente",
+    "email": "paciente4@gmail.com",
+    "clave": "123456",
+    "dni": "45696541"
+  },
+  {
+    "contadorid": 5,
+    "id": 4,
+    "especialidadID": 4,
+    "registroTratamiento": [],
+    "activo": true,
+    "ordenAsignada": {
+      "idProfesional": 0
+    },
+    "nombre": "Paciente Carla",
+    "tipoUsuario": "paciente",
+    "email": "paciente5@gmail.com",
+    "clave": "123456",
+    "dni": "15985236"
+  }
+]

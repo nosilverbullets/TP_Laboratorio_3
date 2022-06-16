@@ -1,0 +1,9 @@
+[
+  {
+    "nombre": "Juan Administrador",
+    "tipoUsuario": "admin",
+    "email": "admin",
+    "clave": "123456",
+    "dni": "38001002"
+  }
+]
