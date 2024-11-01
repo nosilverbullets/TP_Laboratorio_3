@@ -1,7 +1,3 @@
-# TP_Laboratorio_3
- 
-Trabajo final - Laboratorio III - Profesor A Gaggini
+A comprehensive system to manage patient and professional profiles, specialties, health monitoring tasks, and conditions. It includes features for patient and professional registration, assigning standard or customized monitoring plans, initiating and extending treatment plans, and managing data input by patients. All data is stored in *.json files for persistence.
 
-Sistema de gestion de salud, para pacientes y profesionales. Alta de pacientes y profesionales, especialidades, tareas de control, y enfermedades. Asignacion de planes de control predeterminados o personalizados, alta y prolongacion de tratamientos, administracion de datos cargados por paciente. Persistencia en archivos *.json.
-
-Se encuentra adjunto el proyecto completo (*.rar), asi mismo las versiones preliminares y el diagrama de clases.
+The complete project is attached (*.rar), along with preliminary versions and the class diagram.
